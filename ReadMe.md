@@ -32,4 +32,5 @@ After the two steps, you should see the following in the console:
 
 <b>5. Test Method</b>
 * start the project 
-* use postman to test
+* use postman to test in the http://localhost:8180/check
+
